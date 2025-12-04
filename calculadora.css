@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+}
+
+h1 {
+    color: brown;
+}
+
+button {
+    background-color: orange;
+    padding: 10px;
+    border: none;
+}
+
+p {
+    font-size: 18px;
+}
